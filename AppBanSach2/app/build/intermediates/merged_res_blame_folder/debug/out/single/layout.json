@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_home.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_flash.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_flash.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/cart_item.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/cart_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_admin_menu.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_admin_menu.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_search.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/author_listview_layout.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/author_listview_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_invoice_datal.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_invoice_datal.xml"
+    },
+    {
+        "merged": "com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/cart_item.xml",
+        "source": "com.tuan1611pupu.appbansach.app-main-33:/layout/cart_item.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/category_listview_layout.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/category_listview_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_log_in.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_log_in.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/item_book.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/item_book.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/publisher_listview_layout.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/publisher_listview_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_admin_listbook.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_admin_listbook.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_author.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_author.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_order_list.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_order_list.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_publisher.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_publisher.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_sign_up.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_cart.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/dialog_add_author.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/dialog_add_author.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_c_r_u_d.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_c_r_u_d.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/invoice_detail_listview_layout.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/invoice_detail_listview_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_my_page.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_my_page.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_crudbook.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_crudbook.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_user.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_user.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_category.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_category.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/book_listview_layout.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/book_listview_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_detail_book.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_detail_book.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/row_order_user.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/row_order_user.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/layout_home.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/layout_home.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/fragment_account.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/fragment_account.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/style_spinner.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/style_spinner.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/dialog_add_category.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/dialog_add_category.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/dialog_add_publisher.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/dialog_add_publisher.xml"
+    },
+    {
+        "merged": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-mergeDebugResources-30:/layout/activity_forgot_password.xml",
+        "source": "/Users/nguyentuan/.gradle/daemon/7.4/com.tuan1611pupu.appbansach.app-main-33:/layout/activity_forgot_password.xml"
+    }
+]

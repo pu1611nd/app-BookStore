@@ -1,0 +1,220 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tuan1611pupu.appbansach"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.tuan1611pupu.appbansach.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.tuan1611pupu.appbansach.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:7:5-95:19
+20        android:allowBackup="true"
+20-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] /Users/nguyentuan/.gradle/caches/transforms-3/c9d1df73793a88888b9fc2986788e2da/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:10:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:11:9-43
+27        android:label="@string/app_name"
+27-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:12:9-41
+28        android:networkSecurityConfig="@xml/network_security_config"
+28-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:13:9-69
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:14:9-54
+30        android:supportsRtl="true"
+30-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:15:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.AppBanSach"
+32-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:16:9-48
+33        android:usesCleartextTraffic="true" >
+33-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:17:9-44
+34        <activity
+34-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:19:9-25:20
+35            android:name="com.tuan1611pupu.appbansach.Activity.DetailBook"
+35-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:20:13-48
+36            android:exported="false" >
+36-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:21:13-37
+37            <meta-data
+37-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+38                android:name="android.app.lib_name"
+38-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+39                android:value="" />
+39-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+40        </activity>
+41        <activity
+41-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:26:9-32:20
+42            android:name="com.tuan1611pupu.appbansach.Activity.ForgotPasswordActivity"
+42-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:27:13-60
+43            android:exported="false" >
+43-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:28:13-37
+44            <meta-data
+44-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+45                android:name="android.app.lib_name"
+45-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+46                android:value="" />
+46-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+47        </activity>
+48        <activity
+48-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:33:9-45:20
+49            android:name="com.tuan1611pupu.appbansach.Activity.FlashActivity"
+49-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:34:13-51
+50            android:exported="true" >
+50-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:35:13-36
+51            <intent-filter>
+51-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:36:13-40:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:37:17-69
+52-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:37:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:39:17-77
+54-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:39:27-74
+55            </intent-filter>
+56
+57            <meta-data
+57-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+58                android:name="android.app.lib_name"
+58-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+59                android:value="" />
+59-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+60        </activity>
+61        <activity
+61-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:46:9-52:20
+62            android:name="com.tuan1611pupu.appbansach.Activity.InvoiceDatalActivity"
+62-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:47:13-58
+63            android:exported="false" >
+63-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:48:13-37
+64            <meta-data
+64-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+65                android:name="android.app.lib_name"
+65-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+66                android:value="" />
+66-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+67        </activity>
+68        <activity
+68-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:53:9-59:20
+69            android:name="com.tuan1611pupu.appbansach.admin.CRUDbookActivity"
+69-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:54:13-51
+70            android:exported="false" >
+70-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:55:13-37
+71            <meta-data
+71-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+72                android:name="android.app.lib_name"
+72-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+73                android:value="" />
+73-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+74        </activity>
+75        <activity
+75-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:60:9-66:20
+76            android:name="com.tuan1611pupu.appbansach.Activity.AdminMenuActivity"
+76-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:61:13-55
+77            android:exported="false" >
+77-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:62:13-37
+78            <meta-data
+78-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+79                android:name="android.app.lib_name"
+79-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+80                android:value="" />
+80-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+81        </activity>
+82        <activity
+82-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:67:9-73:20
+83            android:name="com.tuan1611pupu.appbansach.Activity.UserActivity"
+83-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:68:13-50
+84            android:exported="false" >
+84-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:69:13-37
+85            <meta-data
+85-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+86                android:name="android.app.lib_name"
+86-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+87                android:value="" />
+87-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+88        </activity>
+89        <activity
+89-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:74:9-80:20
+90            android:name="com.tuan1611pupu.appbansach.Activity.SignUpActivity"
+90-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:75:13-52
+91            android:exported="false" >
+91-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:76:13-37
+92            <meta-data
+92-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+93                android:name="android.app.lib_name"
+93-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+94                android:value="" />
+94-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+95        </activity>
+96        <activity
+96-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:81:9-87:20
+97            android:name="com.tuan1611pupu.appbansach.Activity.LogInActivity"
+97-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:82:13-51
+98            android:exported="false" >
+98-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:83:13-37
+99            <meta-data
+99-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+100                android:name="android.app.lib_name"
+100-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+101                android:value="" />
+101-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+102        </activity>
+103        <activity
+103-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:88:9-94:20
+104            android:name="com.tuan1611pupu.appbansach.Activity.MainActivity"
+104-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:89:13-50
+105            android:exported="false" >
+105-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:90:13-37
+106            <meta-data
+106-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:22:13-24:36
+107                android:name="android.app.lib_name"
+107-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:23:17-52
+108                android:value="" />
+108-->/Users/nguyentuan/AndroidStudioProjects/AppBanSach2/app/src/main/AndroidManifest.xml:24:17-33
+109        </activity>
+110
+111        <provider
+111-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/578ef19881b9e5c75a7e533506929846/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+112            android:name="androidx.startup.InitializationProvider"
+112-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/578ef19881b9e5c75a7e533506929846/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+113            android:authorities="com.tuan1611pupu.appbansach.androidx-startup"
+113-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/578ef19881b9e5c75a7e533506929846/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+114            android:exported="false" >
+114-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/578ef19881b9e5c75a7e533506929846/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+115            <meta-data
+115-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/578ef19881b9e5c75a7e533506929846/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+116                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+116-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/578ef19881b9e5c75a7e533506929846/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+117                android:value="androidx.startup" />
+117-->[androidx.emoji2:emoji2:1.2.0] /Users/nguyentuan/.gradle/caches/transforms-3/578ef19881b9e5c75a7e533506929846/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+118            <meta-data
+118-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/c2dfcefb92e37fc96955220fe8b8c302/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+119                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+119-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/c2dfcefb92e37fc96955220fe8b8c302/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+120                android:value="androidx.startup" />
+120-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/nguyentuan/.gradle/caches/transforms-3/c2dfcefb92e37fc96955220fe8b8c302/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+121        </provider>
+122    </application>
+123
+124</manifest>

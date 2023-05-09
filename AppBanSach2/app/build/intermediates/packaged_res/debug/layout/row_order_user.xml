@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="3dp"
+    app:cardUseCompatPadding="true"
+    app:contentPadding="5dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_gravity="center_vertical"
+            android:id="@+id/txtOrder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="123456"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+        <LinearLayout
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/txtDate"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:maxLength = "10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="01/06/2022"/>
+            <TextView
+                android:id="@+id/txtTel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0926583476"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:layout_gravity="center_vertical"
+            android:id="@+id/txtStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="In Progress"
+            android:textColor="@color/green"/>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:text="Chi tiết"
+                android:layout_marginBottom="10dp"
+                android:background="@color/primary_color"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:layout_gravity="right"
+                android:id="@+id/btn_invoice"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"/>
+            <Button
+                android:text="Next"
+                android:background="@color/primary_color"
+                android:textColor="@color/white"
+                android:textAllCaps="false"
+                android:layout_gravity="right"
+                android:id="@+id/btn_status"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"/>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
