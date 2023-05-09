@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9/vupq9yXkucqip8e9OhdgAAAAACAAAAAAAQZgAAAAEAACAAAACAii0P2WDpTLw+AEL1WcFTQkO/vjxRsqWd6gcMQx0F0AAAAAAOgAAAAAIAACAAAABt6csTW/Z+xkm+bqf0E4Lsq35KPaeq9IuLpu8VZz+IOoAAAAA/cNv7VltF5mFcyKKfE1Gj6UDIq70h+IZ3MIYWy3hE48dGm7/6HZ+5/Hh3jtRPh0mbrsPYD2vyFoRMzrdVcWRa1+yvPhTId7LGbQMHeS08Dd7eVgrbJ64ucIPIjnRQHA1lZAWHE1+SzHPFIDtc+SrWZNmIHVUmySDoZz82jCZ4JUAAAACsOOyGkce5yMw6BXPXLPBYzatq3cRhIA4HsR31yfbmOkCYfpskpbPBRQDwpX9NDMLOSAslbTmLti+/SOg90St5</EncryptedPassword>
+    <History>False|2023-03-29T13:59:48.5929895Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="BookStoreApi.Data.BookStoreContext">
+      <Value>Data Source=tcp:minibookstore.database.windows.net,1433%3bInitial Catalog=BookStoreApi%3bUser Id=admin123%40minibookstore%3bPassword=tuan16012001</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
